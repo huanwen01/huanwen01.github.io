@@ -4,5 +4,12 @@
  "auditState":0,
  "url":"http://h5.9154wan.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100000321&game_version=3.16.3&initial=",
  "isPortrait":0,
- "version":"1.0.1"}
+ "version":"1.0.1"},
+
+{"bid":"com.jszs.xzy",
+ "auditState":1,
+ "url":"http://h5.9154wan.com/h5sdk/yellowlogin?skin=blackgoldtran&appid=100000321&game_version=3.16.3&initial=",
+ "isPortrait":0,
+ "version":"1.1.1"}
+
  ]
