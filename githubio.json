@@ -109,6 +109,6 @@
  "backState":1,
  "isAudit":1,
  "userInfo":0,
- "hiddeTabBar":1,
+ "hiddeTabBar":0,
  "urlAddData":0}
  ]
