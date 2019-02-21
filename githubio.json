@@ -10,7 +10,9 @@
  "urlStr":"http://www.baidu.com",
  "backState":1,
  "isAudit":1,
- "userInfo":0},
+ "userInfo":0,
+ "hiddeTabBar":0,
+ "urlAddData":0},
 
 {"bid":"com.wscq.xs",
  "auditState":1,
@@ -22,7 +24,9 @@
  "urlStr":"http://www.baidu.com",
  "backState":1,
  "isAudit":1,
- "userInfo":0},
+ "userInfo":0,
+ "hiddeTabBar":0,
+ "urlAddData":0},
 
 {"bid":"zsxs.fyzq.hk.hkys",
  "auditState":0,
@@ -34,7 +38,9 @@
  "urlStr":"http://www.baidu.com",
  "backState":1,
  "isAudit":1,
- "userInfo":0},
+ "userInfo":0,
+ "hiddeTabBar":0,
+ "urlAddData":0},
 
 {"bid":"hcgs.ggsh.hcxs.hc",
  "auditState":1,
@@ -46,7 +52,9 @@
  "urlStr":"http://www.baidu.com",
  "backState":1,
  "isAudit":1,
- "userInfo":0},
+ "userInfo":0,
+ "hiddeTabBar":0,
+ "urlAddData":0},
  
  {"bid":"zsxs.zscs.hk.zsqb",
  "auditState":1,
@@ -58,7 +66,9 @@
  "urlStr":"http://www.baidu.com",
  "backState":1,
  "isAudit":1,
- "userInfo":0},
+ "userInfo":0,
+ "hiddeTabBar":0,
+ "urlAddData":0},
  
  {"bid":"csqb.zscs.khsk.zss",
  "auditState":0,
@@ -70,7 +80,9 @@
  "urlStr":"http://www.baidu.com",
  "backState":1,
  "isAudit":1,
- "userInfo":0},
+ "userInfo":0,
+ "hiddeTabBar":0,
+ "urlAddData":0},
  
   {"bid":"dzcx.fgxs.scks.csd",
  "auditState":0,
@@ -82,7 +94,9 @@
  "urlStr":"http://www.baidu.com",
  "backState":1,
  "isAudit":1,
- "userInfo":0},
+ "userInfo":0,
+ "hiddeTabBar":0,
+ "urlAddData":0},
  
  {"bid":"cysc.scxy.cysc.ksb",
  "auditState":0,
@@ -94,5 +108,7 @@
  "urlStr":"http://www.baidu.com",
  "backState":1,
  "isAudit":1,
- "userInfo":0}
+ "userInfo":0,
+ "hiddeTabBar":1,
+ "urlAddData":0}
  ]
